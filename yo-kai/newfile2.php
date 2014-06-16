@@ -1,4 +1,4 @@
 <?php
 var_dump($_SERVER);
-echo "umko";
+echo "umko janakute unko";
 ?>
